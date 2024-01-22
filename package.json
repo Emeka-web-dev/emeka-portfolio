@@ -9,19 +9,40 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-slot": "^1.0.2",
+    "@react-three/drei": "^9.94.1",
+    "@react-three/fiber": "^8.15.14",
+    "@sanity/image-url": "^1.0.2",
+    "@sanity/vision": "^3.24.1",
+    "@tsparticles/engine": "^3.1.0",
+    "@tsparticles/react": "^3.0.0",
+    "@types/three": "^0.160.0",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "framer-motion": "^10.18.0",
+    "gsap": "^3.12.4",
+    "lucide-react": "^0.309.0",
+    "next": "14.0.4",
+    "next-sanity": "^7.0.10",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.4"
+    "react-icons": "^5.0.1",
+    "sanity": "^3.24.1",
+    "styled-components": "^6.1.8",
+    "tailwind-merge": "^2.2.0",
+    "tailwindcss-animate": "^1.0.7",
+    "three": "^0.160.0",
+    "tsparticles": "^3.1.0"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
     "postcss": "^8",
     "tailwindcss": "^3.3.0",
-    "eslint": "^8",
-    "eslint-config-next": "14.0.4"
+    "typescript": "^5"
   }
 }
